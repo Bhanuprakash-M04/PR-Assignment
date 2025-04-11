@@ -8,7 +8,7 @@ def subtraction(a, b):
 
 # Function to perform multiplication
 def multiplication(a, b):
-    pass
+    return a*b
 
 # Function to perform division
 def division(a, b):
