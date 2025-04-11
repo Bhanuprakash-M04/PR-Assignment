@@ -12,7 +12,7 @@ def multiplication(a, b):
 
 # Function to perform division
 def division(a, b):
-    pass
+    return a/b
 
 # Main function
 def main():
