@@ -1,6 +1,6 @@
 # Function to perform addition
 def addition(a, b):
-    pass
+    return a+b
 
 # Function to perform subtraction
 def subtraction(a, b):
